@@ -1,47 +1,55 @@
-<h1 align="center">Hi 👋, I'm Arnav Garg</h1>
-<h3 align="center">Mathematics • Computer Science • Quantitative Finance • Machine Learning</h3>
+<div align="center">
 
-<p align="center">
-  <em>Building high-performance systems and models at the intersection of stochastic mathematics, financial markets, and algorithms.</em>
-</p>
+# 👋 Hi, I'm Arnav Garg
 
-<p align="center">
-  <a href="mailto:gargarnav985@gmail.com"><img src="https://img.shields.io/badge/Email-gargarnav985%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Arnav111garg"><img src="https://img.shields.io/badge/GitHub-Arnav111garg-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+### **Mathematics • Computer Science • Quantitative Finance • Machine Learning**
+
+*Building high-performance systems and models at the intersection of stochastic mathematics, financial markets, and algorithms.*
 
 ---
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gargarnav985@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arnav111garg)
+
+</div>
+
+<br />
 
 ## 👨‍💻 About Me
 
-- 🎓 **Education**: B.Sc. Mathematical Sciences at **Delhi University**
-- 📈 **Career Goal**: Aspiring **Quantitative Researcher** / **Quant Developer**
-- 🧠 **Core Interests**: Probability & Statistics, Stochastic Calculus, Optimization, Market Microstructure, & Derivatives Pricing
-- 💻 **Engineering Focus**: Translating rigorous mathematical theory into fast, modular implementations in **Python** & **C++**
-
----
-
-## 🚀 What I'm Working On
-
-- 📊 **Quant Finance & Microstructure**: Developing backtesting frameworks, order book simulations, and derivatives pricing models.
-- 📐 **Mathematics & Stochastic Theory**: Deep-diving into stochastic differential equations, time-series analysis, and portfolio optimization.
-- 🧩 **Algorithms**: Practicing competitive programming to master data structures, dynamic programming, and graph algorithms.
-- 📄 **Research**: Reading quant finance literature and reproducing empirical results in Jupyter/Python.
+* 🎓 **Education**: B.Sc. Mathematical Sciences at **Delhi University**
+* 📈 **Career Focus**: Aspiring **Quantitative Researcher** / **Quant Developer**
+* 🧠 **Core Interests**: Probability & Statistics, Stochastic Calculus, Optimization, Market Microstructure, & Derivatives Pricing
+* 💻 **Engineering Goal**: Translating rigorous mathematical theory into fast, modular implementations in **Python** & **C++**
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | `C++` `Python` |
-| **Quant & Data Science** | `NumPy` `Pandas` `SciPy` `Scikit-Learn` `PyTorch` `Matplotlib` |
-| **Domains** | Quantitative Finance • Derivatives Pricing • Market Microstructure • Stochastic Processes |
-| **Developer Tools** | `Jupyter Notebook` `Git` `GitHub`|
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <br />
+  <!-- Frameworks & Data Science -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <br />
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
+## 🚀 What I'm Focused On
 
-<p align="center">
-  <i>"To do is to be. To be is to do. DODO DODO</i>
-</p>
+```text
+├── 📊 Quant Finance & Microstructure  ► Limit order books, pricing models, backtesting
+├── 📐 Math & Stochastic Theory        ► Stochastic calculus, time-series, portfolio optimization
+├── 🧩 Competitive Algorithms         ► C++ performance, dynamic programming, graph theory
+└── 📄 Quantitative Research           ► Reproducing empirical results from literature
