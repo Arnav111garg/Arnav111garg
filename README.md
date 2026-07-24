@@ -1,50 +1,47 @@
-# Hi there, I'm Arnav 👋
-
-*Quantitative Finance Enthusiast | Algorithmic Trading | Competitive Programmer*
-
----
-
-### 🚀 About Me
-
-- 📈 **Quant Finance & Macro**: Currently building macro-aware tactical asset allocation engines and exploring quantitative strategies (Check out my [120 Days of Quant Finance Series](https://github.com/Arnav111garg/120-Day-of-Quant-Finance-Series)).
-- 💻 **Problem Solving**: Active competitive programmer working through **CSES**, **Codeforces**, and **TensorTonic** challenges in C++ and Python.
-- 🎓 **Education / Background**: Student at **IIT Guwahati**.
-
----
-
-### 🛠 Tech Stack & Tools
-
-- **Languages**: C++, Python, Jupyter Notebooks
-- **Domains**: Quantitative Finance, Financial Engineering, Limit Order Book (LOB) Reconstruction, Asset Allocation
-- **Tools**: Git, GitHub, Linux, Pandas, NumPy, SciPy
-
----
-
-### 📌 Highlighted Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 📊 **[Regime-Shift Tactical Asset Allocation](https://github.com/Arnav111garg/Regime-Shift-Macro-Aware-Tactical-Asset-Allocation-Engine-Project)** | Macro-aware tactical asset allocation engine built as a DIY project. | Jupyter, Python |
-| 📚 **[120 Days of Quant Finance](https://github.com/Arnav111garg/120-Day-of-Quant-Finance-Series)** | Documenting concepts from beginner to intermediate level in Quantitative Finance. | Python, Jupyter |
-| ⚡ **[LOB Reconstruction](https://github.com/Arnav111garg/lob-reconstruction)** | Limit Order Book reconstruction and order matching engine simulation. | Python |
-| 🧩 **[CSES & Codeforces Solutions](https://github.com/Arnav111garg/CSES-Problem-Solving)** | Optimized C++ implementations for core algorithmic problems. | C++ |
-
----
-
-### 📊 GitHub Stats & Activity
+<h1 align="center">Hi 👋, I'm Arnav Garg</h1>
+<h3 align="center">Mathematics • Computer Science • Quantitative Finance • Machine Learning</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arnav111garg&show_icons=true&theme=tokyonight&hide_border=true" alt="Arnav's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav111garg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <em>Building high-performance systems and models at the intersection of stochastic mathematics, financial markets, and algorithms.</em>
+</p>
+
+<p align="center">
+  <a href="mailto:gargarnav985@gmail.com"><img src="https://img.shields.io/badge/Email-gargarnav985%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Arnav111garg"><img src="https://img.shields.io/badge/GitHub-Arnav111garg-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
-### 📫 Connect with Me
+## 👨‍💻 About Me
 
-- 💼 **LinkedIn**: [linkedin.com/in/your-profile](#) *(Replace with your URL)*
-- 🌐 **Portfolio / Blog**: [your-website.com](#) *(Optional)*
-- ✉️ **Email**: `your.email@example.com`
+- 🎓 **Education**: B.Sc. Mathematical Sciences at **Delhi University**
+- 📈 **Career Goal**: Aspiring **Quantitative Researcher** / **Quant Developer**
+- 🧠 **Core Interests**: Probability & Statistics, Stochastic Calculus, Optimization, Market Microstructure, & Derivatives Pricing
+- 💻 **Engineering Focus**: Translating rigorous mathematical theory into fast, modular implementations in **Python** & **C++**
 
 ---
-*“In investing, what is comfortable is rarely profitable.” — Robert Arnott*
+
+## 🚀 What I'm Working On
+
+- 📊 **Quant Finance & Microstructure**: Developing backtesting frameworks, order book simulations, and derivatives pricing models.
+- 📐 **Mathematics & Stochastic Theory**: Deep-diving into stochastic differential equations, time-series analysis, and portfolio optimization.
+- 🧩 **Algorithms**: Practicing competitive programming to master data structures, dynamic programming, and graph algorithms.
+- 📄 **Research**: Reading quant finance literature and reproducing empirical results in Jupyter/Python.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `C++` `Python` |
+| **Quant & Data Science** | `NumPy` `Pandas` `SciPy` `Scikit-Learn` `PyTorch` `Matplotlib` |
+| **Domains** | Quantitative Finance • Derivatives Pricing • Market Microstructure • Stochastic Processes |
+| **Developer Tools** | `Jupyter Notebook` `Git` `GitHub`|
+
+---
+
+
+<p align="center">
+  <i>"To do is to be. To be is to do. DODO DODO</i>
+</p>
