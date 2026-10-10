@@ -20,7 +20,6 @@
 * 🎓 **Education**: B.Sc. Mathematical Sciences at **Delhi University**
 * 📈 **Career Focus**: Aspiring **Quantitative Researcher** / **Quant Trader**
 * 🧠 **Core Interests**: Probability & Statistics, Stochastic Calculus, Optimization, Market Microstructure, & Derivatives Pricing
-* 💻 **Engineering Goal**: Translating rigorous mathematical theory into fast, modular implementations in **Python** & **C++**
 
 ---
 
